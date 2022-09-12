@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/Faus20/Faus20/main/imgs/logo3.png" width="600" height="200"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Faus20/Faus20/main/imgs/logo2.png" width="500" height="150"/></p>
 <h3 align="center">Hi 👋, I'm a passionate Frontend and Backend developer from Argentina</h3>
 
 - 📫 How to reach me **fausarana17@gmail.com**
