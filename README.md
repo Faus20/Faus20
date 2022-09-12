@@ -1,6 +1,6 @@
-![alt text](https://raw.githubusercontent.com/Faus20/Faus20/main/imgs/logo.png)
-<h1 align="center">Hi 👋, I'm Fausto Arana</h1>
-<h3 align="center">A passionate Frontend and Backend developer from Argentina</h3>
+
+<h1 align="center">![alt text](https://raw.githubusercontent.com/Faus20/Faus20/main/imgs/logo.png)</h1>
+<h3 align="center">Hi 👋, I'm a passionate Frontend and Backend developer from Argentina</h3>
 
 - 📫 How to reach me **fausarana17@gmail.com**
 
